@@ -1,4 +1,5 @@
 # draft-git
 
 ## this is a test change
-1212121
+
+This repository contains drafts and notes related to Git development.
